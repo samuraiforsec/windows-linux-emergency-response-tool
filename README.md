@@ -5,7 +5,7 @@
 ## 作者信息
 
 - 作者: Andy
-- 邮箱: chenxiaodong@chinatelecomglobal.com
+- 邮箱: andyforsec@gmail.com
 - 版本: v1.0
 
 ## 功能特点

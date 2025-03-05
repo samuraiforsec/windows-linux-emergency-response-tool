@@ -44,7 +44,7 @@ class MainWindow(QMainWindow):
         self.setStatusBar(self.status_bar)
         
         # 添加永久消息（作者信息）
-        author_label = QLabel("作者: Andy | 邮箱: chenxiaodong@chinatelecomglobal.com")
+        author_label = QLabel("作者: Andy | 邮箱: andyforsec@gmail.com")
         self.status_bar.addPermanentWidget(author_label)
         
         # 添加临时消息区域
@@ -524,7 +524,7 @@ class MainWindow(QMainWindow):
         QMessageBox.about(self, "关于", 
                          "Windows和Linux应急响应工具 v1.0\n\n"
                          "作者: Andy\n"
-                         "邮箱: chenxiaodong@chinatelecomglobal.com\n\n"
+                         "邮箱: andyforsec@gmail.com\n\n"
                          "一个用于快速分析Windows和Linux服务器安全状况的工具。\n"
                          "支持远程登录服务器，执行安全检查，分析系统状态，\n"
                          "适用于应急响应场景。")
